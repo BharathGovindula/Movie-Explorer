@@ -2,7 +2,8 @@
 
 A responsive React application for browsing and searching movies using the OMDB API. This project allows users to explore movies by genre, search for specific titles, and filter results by year and genre.
 
-![Movie Explorer Screenshot](https://via.placeholder.com/800x400?text=Movie+Explorer+Screenshot)
+<img width="1920" height="844" alt="Screenshot (2138)" src="https://github.com/user-attachments/assets/e6d3e6e1-7fc2-4011-9750-a359652505ac" />
+
 
 ## Live Demo
 
